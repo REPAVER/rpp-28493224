@@ -1,0 +1,331 @@
+{
+  "colors": {
+    "bg": "#F5F1E8",
+    "text": "#2C2416",
+    "accent": "#D4AF37",
+    "border": "#E8DCC8",
+    "primary": "#8B4513",
+    "surface": "#FFFFFF",
+    "text_muted": "#6B6157",
+    "primary_light": "#D2B48C"
+  },
+  "content": {
+    "nav": [
+      "メニュー",
+      "ギャラリー",
+      "アクセス",
+      "お問い合わせ"
+    ],
+    "sns": {
+      "line": "https://line.me/R/ti/p/labelletable",
+      "instagram": "https://instagram.com/labelletable"
+    },
+    "tel": "03-xxxx-xxxx",
+    "logo": "La Belle Table",
+    "phone": "03-xxxx-xxxx",
+    "address": "東京都港区南麻布3-1-1 エレガンスビル4F",
+    "cta_url": "#contact",
+    "cta_text": "予約する",
+    "features": [
+      {
+        "icon": "🍽️",
+        "text": "毎日市場から直仕入れした季節の食材。旬の味わいを最高の状態でお届けします。",
+        "image": "https://picsum.photos/600/400?random=2",
+        "label": "素材へのこだわり",
+        "title": "新鮮素材の厳選"
+      },
+      {
+        "icon": "👨‍🍳",
+        "text": "ミシュラン星獲得のシェフによる創意工夫。伝統と革新が融合した独特の世界観。",
+        "image": "https://picsum.photos/600/400?random=3",
+        "label": "職人の技",
+        "title": "経験豊富なシェフ"
+      },
+      {
+        "icon": "🏰",
+        "text": "ヨーロッパの古典様式と現代美を融合させた上質な空間。特別な時間を演出します。",
+        "image": "https://picsum.photos/600/400?random=4",
+        "label": "空間へのこだわり",
+        "title": "洗練の空間設計"
+      },
+      {
+        "icon": "🍷",
+        "text": "ソムリエが厳選したワインとのマリアージュ。料理の魅力をさらに引き出します。",
+        "image": "https://picsum.photos/600/400?random=5",
+        "label": "飲み物の提案",
+        "title": "ワインペアリング"
+      }
+    ],
+    "hero_image": "https://picsum.photos/1920/1080?random=1",
+    "hero_title": "上質な食体験へようこそ",
+    "footer_desc": "La Belle Tableは、上質な食体験を通じて、人生の大切な瞬間をお手伝いするレストランです。ミシュラン星獲得のシェフが、季節の素材と職人技術で創り出す料理をお楽しみください。",
+    "map_address": "東京都港区南麻布3-1-1",
+    "access_title": "アクセス・営業情報",
+    "concept_text": "La Belle Tableは、食を通じて人生の大切な瞬間をお手伝いすることを信念としています。\n\n季節の変化を感じ、旬の素材の力を最大限に引き出し、シェフの創意工夫と職人技術で、お客様に感動をお届けします。\n\n私たちが目指すのは、単なる食事の場ではなく、心が満たされ、思い出に残る「特別な時間」の創造です。\n\n上質な食材、洗練された空間、心からのおもてなし。これら全てが調和した世界をお楽しみください。",
+    "testimonials": [
+      {
+        "role": "リピーター",
+        "text": "毎回、期待以上の料理と空間で心が満たされます。シェフのこだわりが随所に感じられ、とても特別な夜になりました。",
+        "stars": 5,
+        "author": "田中 美咲",
+        "avatar": "https://picsum.photos/100/100?random=20"
+      },
+      {
+        "role": "ワイン愛好家",
+        "text": "ワインペアリングが素晴らしく、料理の各層の味わいが引き出されていました。全てのディテールに職人の技を感じます。",
+        "stars": 5,
+        "author": "鈴木 健一",
+        "avatar": "https://picsum.photos/100/100?random=21"
+      },
+      {
+        "role": "カップル",
+        "text": "記念日で訪れました。スタッフのおもてなしも完璧で、忘れられない思い出になりました。また来たいです。",
+        "stars": 5,
+        "author": "佐藤 由紀子",
+        "avatar": "https://picsum.photos/100/100?random=22"
+      },
+      {
+        "role": "会社員",
+        "text": "友人との食事会で利用しました。話題のお店の料理の噂は本当でした。次回は家族と来たいと思います。",
+        "stars": 5,
+        "author": "鈴木 健太",
+        "avatar": "https://picsum.photos/100/100?random=23"
+      },
+      {
+        "role": "グルメ愛好家",
+        "text": "食材の質感や色合いも美しく、目でも舌でも楽しめます。ここまでのレベルのお店は他にありません。",
+        "stars": 5,
+        "author": "伊藤 由美",
+        "avatar": "https://picsum.photos/100/100?random=24"
+      },
+      {
+        "role": "会社役員",
+        "text": "高級レストランですが、スタッフは親切で親しみやすいです。敷居が高くなく、何度も訪れたくなる魅力があります。",
+        "stars": 5,
+        "author": "佐藤 太郎",
+        "avatar": "https://picsum.photos/100/100?random=25"
+      }
+    ],
+    "concept_image": "https://picsum.photos/800/600?random=60",
+    "concept_title": "私たちの想い",
+    "contact_title": "お問い合わせ",
+    "gallery_items": [
+      {
+        "image": "https://picsum.photos/600/800?random=10",
+        "caption": "季節の前菜盛り合わせ"
+      },
+      {
+        "image": "https://picsum.photos/600/500?random=11",
+        "caption": "メインディッシュ"
+      },
+      {
+        "image": "https://picsum.photos/600/700?random=12",
+        "caption": "自家製デザート"
+      },
+      {
+        "image": "https://picsum.photos/600/600?random=13",
+        "caption": "ディナーの風景"
+      },
+      {
+        "image": "https://picsum.photos/600/750?random=14",
+        "caption": "特別なコース料理"
+      },
+      {
+        "image": "https://picsum.photos/600/550?random=15",
+        "caption": "シェフの逸品"
+      }
+    ],
+    "gallery_title": "料理の美しさ",
+    "hero_cta_text": "お問い合わせ",
+    "hero_subtitle": "季節の素材が織りなす、最高のハーモニー",
+    "pricing_title": "メニュー",
+    "business_hours": "ランチ 11:30～14:00（L.O. 13:30）\nディナー 17:30～22:30（L.O. 21:30）\n定休日：月曜日、第1・3日曜日",
+    "contact_fields": [
+      {
+        "type": "text",
+        "label": "お名前"
+      },
+      {
+        "type": "email",
+        "label": "メールアドレス"
+      },
+      {
+        "type": "tel",
+        "label": "お電話番号"
+      },
+      {
+        "type": "date",
+        "label": "ご希望日時"
+      },
+      {
+        "type": "number",
+        "label": "人数"
+      },
+      {
+        "type": "textarea",
+        "label": "ご質問・ご要望"
+      }
+    ],
+    "contact_submit": "送信する",
+    "features_title": "こだわりの料理体験",
+    "footer_columns": [
+      {
+        "links": [
+          {
+            "href": "#pricing",
+            "text": "ランチ"
+          },
+          {
+            "href": "#pricing",
+            "text": "ディナー"
+          },
+          {
+            "href": "#",
+            "text": "ワインリスト"
+          }
+        ],
+        "heading": "メニュー"
+      },
+      {
+        "links": [
+          {
+            "href": "#concept",
+            "text": "私たちの想い"
+          },
+          {
+            "href": "#gallery",
+            "text": "ギャラリー"
+          },
+          {
+            "href": "#testimonials",
+            "text": "お客様の声"
+          }
+        ],
+        "heading": "について"
+      },
+      {
+        "links": [
+          {
+            "href": "#access",
+            "text": "アクセス"
+          },
+          {
+            "href": "#access",
+            "text": "営業時間"
+          },
+          {
+            "href": "#contact",
+            "text": "予約方法"
+          }
+        ],
+        "heading": "ご利用案内"
+      },
+      {
+        "links": [
+          {
+            "href": "tel:03xxxxxxxx",
+            "text": "電話: 03-xxxx-xxxx"
+          },
+          {
+            "href": "#contact",
+            "text": "メール"
+          },
+          {
+            "href": "#contact",
+            "text": "貸切・宴会相談"
+          }
+        ],
+        "heading": "お問い合わせ"
+      }
+    ],
+    "access_shop_name": "La Belle Table",
+    "contact_subtitle": "ご質問・ご予約・貸切のご相談など、お気軽にお問い合わせください",
+    "cta_section_text": "季節の素材が織りなす、最高のハーモニーを体験してください。ご予約をお待ちしております。",
+    "footer_copyright": "© 2026 La Belle Table All rights reserved.",
+    "gallery_subtitle": "五感で楽しむ、目で愛でる",
+    "pricing_subtitle": "季節ごとに変わる、シェフの創意工夫",
+    "cta_section_title": "特別な時間へのお招き",
+    "features_subtitle": "厳選素材と職人技で創る、至福の時間",
+    "cta_section_button": "ご予約はこちら",
+    "pricing_categories": [
+      {
+        "name": "ランチセット",
+        "items": [
+          {
+            "name": "季節の前菜とメイン",
+            "price": "¥4,500",
+            "description": "前菜3品、メインディッシュ、デザート、コーヒー"
+          },
+          {
+            "name": "シェフのおすすめプレート",
+            "price": "¥6,000",
+            "description": "本日のスペシャル5品コース"
+          },
+          {
+            "name": "プリフィックスメニュー",
+            "price": "¥5,500",
+            "description": "前菜、メイン、デザートから選択"
+          }
+        ]
+      },
+      {
+        "name": "ディナーコース",
+        "items": [
+          {
+            "name": "クラシックコース",
+            "price": "¥8,000",
+            "description": "6品のコース料理。ワインペアリングオプション+3,500円"
+          },
+          {
+            "name": "プレミアムコース",
+            "price": "¥12,000",
+            "description": "8品の上質なコース。シェフの最高傑作を堪能"
+          },
+          {
+            "name": "スペシャルコース",
+            "price": "¥15,000",
+            "description": "10品のオマケースコース。特別な夜へ"
+          }
+        ]
+      },
+      {
+        "name": "アラカルト",
+        "items": [
+          {
+            "name": "本日のスープ",
+            "price": "¥1,200",
+            "description": "季節の野菜をふんだんに使ったスープ"
+          },
+          {
+            "name": "焼き野菜のサラダ",
+            "price": "¥2,000",
+            "description": "新鮮野菜のシーザーサラダ"
+          },
+          {
+            "name": "グラスワイン",
+            "price": "¥1,500",
+            "description": "日替わりセレクション"
+          }
+        ]
+      }
+    ],
+    "testimonials_title": "お客様からのお声",
+    "testimonials_subtitle": "大切なお時間をお過ごしいただいたゲストの声",
+    "concept_image_position": "right"
+  },
+  "components": [
+    "header-transparent-fixed",
+    "hero-fullscreen-overlay",
+    "features-alternating",
+    "gallery-masonry",
+    "pricing-table-style",
+    "testimonials-cards",
+    "concept-image-text",
+    "access-map-with-info",
+    "contact-form-with-info",
+    "cta-card-centered",
+    "footer-multi-column",
+    "mobile-menu-slide"
+  ],
+  "page_title": "La Belle Table - 上質な食体験へようこそ | フレンチレストラン"
+}
