@@ -149,6 +149,11 @@ export interface MockSiteContent {
   cta_section_text?: string;
   cta_section_button?: string;
 
+  // Meta
+  meta_description?: string;
+  og_image?: string;
+  favicon?: string;
+
   // Footer
   footer_desc?: string;
   footer_copyright?: string;

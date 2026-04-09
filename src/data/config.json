@@ -25,6 +25,7 @@
     "phone": "03-xxxx-1234",
     "address": "東京都港区南麻布3-1-1 エレガンスビル404F",
     "cta_url": "#contact",
+    "favicon": "https://assets.re-paver.com/28493224-f230-4987-9f5a-f49655271c0b/1775739957691-favicon.ico",
     "cta_text": "予約しようぜ",
     "features": [
       {
@@ -56,6 +57,7 @@
         "title": "ワインペアリング"
       }
     ],
+    "og_image": "https://assets.re-paver.com/28493224-f230-4987-9f5a-f49655271c0b/1775740431534-ogp.webp",
     "hero_image": "https://picsum.photos/1920/1080?random=1",
     "hero_title": "上質な食体験へようこそ",
     "footer_desc": "La Belle Tableは、上質な食体験を通じて、人生の大切な瞬間をお手伝いするレストランです。ミシュラン星獲得のシェフが、季節の素材と職人技術で創り出す料理をお楽しみください。",
@@ -243,6 +245,7 @@
     "cta_section_text": "季節の素材が織りなす、最高のハーモニーを体験してください。ご予約をお待ちしております。",
     "footer_copyright": "© 2026 La Belle Table All rights reserved.",
     "gallery_subtitle": "五感で楽しむ、目で愛でる",
+    "meta_description": "ppopoppopp",
     "pricing_subtitle": "季節ごとに変わる、シェフの創意工夫",
     "cta_section_title": "特別な時間へのお招き",
     "features_subtitle": "厳選素材と職人技で創る、至福の時間",
@@ -327,5 +330,5 @@
     "footer-multi-column",
     "mobile-menu-slide"
   ],
-  "page_title": "La Belle Table - 上質な食体験へようこそ | フレンチレストラン"
+  "page_title": "POPOPN | フレンチレストラン"
 }
