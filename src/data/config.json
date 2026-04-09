@@ -140,6 +140,15 @@
     "gallery_title": "料理の美しさ",
     "hero_cta_text": "お問い合わせ",
     "hero_subtitle": "季節の素材が織りなす、最高のハーモニー",
+    "news_articles": [
+      {
+        "date": "2026-04-09",
+        "image": "https://assets.re-paver.com/28493224-f230-4987-9f5a-f49655271c0b/1775750925845-img_default.webp",
+        "title": "ダミーテキストでええんです。ダミーテキストでええんです。",
+        "excerpt": "ダミーテキストでええんです。ダミーテキストでええんです。ダミーテキストでええんです。ダミーテキストでええんです。ダミーテキストでええんです。ダミーテキストでええんです。ダミーテキストでええんです。ダミーテキストでええんです。",
+        "category": "お知らせ"
+      }
+    ],
     "pricing_title": "メニュー",
     "business_hours": "ランチ 11:30～14:00（L.O. 13:30）\nディナー 17:30～22:30（L.O. 21:30）\n定休日：月曜日、第1・3日曜日",
     "contact_fields": [
@@ -327,6 +336,7 @@
     "access-map-with-info",
     "contact-form-with-info",
     "cta-card-centered",
+    "news-card-grid",
     "footer-multi-column",
     "mobile-menu-slide"
   ],
